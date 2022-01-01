@@ -1,5 +1,5 @@
 
-🌱 I’m currently learning: machine learning, deep learning
+🌱 I’m currently learning: machine learning, deep learning   
 ⚡ Hobbies: fitness, soccer, netflix
 
 <!--
