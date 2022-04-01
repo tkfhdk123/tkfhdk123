@@ -1,5 +1,6 @@
 
 🌱 I’m currently learning: machine learning, deep learning, android
+
 ⚡ Hobbies: soccer, fitness, lol, netflix
 
 <!--
