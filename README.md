@@ -1,7 +1,7 @@
 
 🌱 I’m currently learning: Natural Language Processing
 
-⚡ Hobbies: Soccer, Fitness, LOL, Netflix
+⚡ Hobbies: Soccer, Fitness, Netflix
 
 <!--
 **tkfhdk123/tkfhdk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
